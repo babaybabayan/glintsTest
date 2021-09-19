@@ -1,0 +1,6 @@
+framework module Pods_YametKudasiMovie {
+  umbrella header "Pods-YametKudasiMovie-umbrella.h"
+
+  export *
+  module * { export * }
+}
